@@ -6,8 +6,9 @@ It can be used by simply running the .exe file and specifying the pdf name, the 
 The program and the PDF need to be in the same folder.
 Creates a new file called new_{file name}.pdf. 
 
+You can also browse the code if you want to :)
 
 Using pdfrw: https://github.com/pmaupin/pdfrw#file-reading-tokenization-and-parsing
-and Gamelib: https://github.com/dessaya/python-gamelib
 
+and Gamelib: https://github.com/dessaya/python-gamelib
 Thanks Diego!
